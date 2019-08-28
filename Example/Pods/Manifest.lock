@@ -1,0 +1,16 @@
+PODS:
+  - YWDemoTools (0.1.0)
+
+DEPENDENCIES:
+  - YWDemoTools (from `../`)
+
+EXTERNAL SOURCES:
+  YWDemoTools:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YWDemoTools: ff46682dc762e113b1f1527c3cb2b45ee4049a64
+
+PODFILE CHECKSUM: feb9b06fee0e54d947b81042493b46d87860a7db
+
+COCOAPODS: 1.8.0.beta.2

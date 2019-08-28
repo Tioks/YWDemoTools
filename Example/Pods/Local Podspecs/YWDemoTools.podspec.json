@@ -1,0 +1,22 @@
+{
+  "name": "YWDemoTools",
+  "version": "0.1.0",
+  "summary": "A short description of YWDemoTools.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Tioks/YWDemoTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Tioks": "644697896@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/Tioks/YWDemoTools.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YWDemoTools/Classes/**/*"
+}
